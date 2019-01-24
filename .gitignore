@@ -1,0 +1,9 @@
+CMakeCache.txt        
+cmake_install.cmake    
+u2f_auth_server_cli
+CMakeFiles        
+*.dat        
+u2f_auth_server_cli.cbp
+cmake-build-debug    
+*.dbt
+Makefile
